@@ -1,0 +1,29 @@
+﻿  N16DCCN116_NTPHONG.cpp
+d:\quan_ly_thu_vien\n16dccn116_ntphong\ngay_thang.h(18): error C2601: 'namNhuan': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+d:\quan_ly_thu_vien\n16dccn116_ntphong\ngay_thang.h(26): error C2601: 'ngayHopLe': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+d:\quan_ly_thu_vien\n16dccn116_ntphong\ngay_thang.h(53): error C2601: 'xuatNgayThang': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+d:\quan_ly_thu_vien\n16dccn116_ntphong\ngay_thang.h(67): error C2601: 'tinhNgay': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+d:\quan_ly_thu_vien\n16dccn116_ntphong\ngay_thang.h(81): error C2601: 'LayNgayHT': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+d:\quan_ly_thu_vien\n16dccn116_ntphong\muon_tra.h(5): error C2143: syntax error: missing ';' before '<class-head>'
+d:\quan_ly_thu_vien\n16dccn116_ntphong\muon_tra.h(33): error C2601: 'initList_MT': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+d:\quan_ly_thu_vien\n16dccn116_ntphong\muon_tra.h(40): error C2601: 'ListMTIsEmpty': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+d:\quan_ly_thu_vien\n16dccn116_ntphong\muon_tra.h(47): error C2601: 'GetNode_MT': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+d:\quan_ly_thu_vien\n16dccn116_ntphong\muon_tra.h(59): error C2601: 'AddHeadList_MT': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+d:\quan_ly_thu_vien\n16dccn116_ntphong\muon_tra.h(76): error C2601: 'AddTailList_MT': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+d:\quan_ly_thu_vien\n16dccn116_ntphong\muon_tra.h(94): error C2601: 'ClearAll_ListMT': local function definitions are illegal
+  d:\quan_ly_thu_vien\n16dccn116_ntphong\dausach.h(75): note: this line contains a '{' which has not yet been matched
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\fstream(14): error C2870: 'std': a namespace definition must appear either at file scope or immediately within another namespace definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\fstream(56): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  INTERNAL COMPILER ERROR in 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe'
+      Please choose the Technical Support command on the Visual C++
+      Help menu, or open the Technical Support help file for more information

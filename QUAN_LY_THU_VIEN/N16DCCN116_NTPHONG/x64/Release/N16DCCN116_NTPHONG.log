@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  Check_Nhap.cpp
+  DanhMucSach.cpp
+  DauSach.cpp
+  DSDocGia.cpp
+  GlobalVariable.cpp
+  Muon_Tra.cpp
+  mylib.cpp
+  N16DCCN116_NTPHONG.cpp
+  Ngay_Thang.cpp
+  Ve_Hinh.cpp
+  XuLyTam.cpp
+  Xu_Ly.cpp
+  Generating code
+  All 304 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  N16DCCN116_NTPHONG.vcxproj -> C:\Users\PhongNT\Desktop\QUAN_LY_THU_VIEN\x64\Release\N16DCCN116_NTPHONG.exe
