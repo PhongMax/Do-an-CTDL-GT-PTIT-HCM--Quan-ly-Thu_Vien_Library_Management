@@ -1,7 +1,23 @@
 # QLTV-LIbrary-Management
-Đồ án cá nhân  môn Cấu trúc dữ liệu và Giải thuật, Học Viên Công Nghê Bưu Chính Viễn Thông cơ sở TP HCM. Đề tài 5, Thư Viện
+Đồ án cá nhân  môn Cấu trúc dữ liệu và Giải thuật, Học Viên Công Nghê Bưu Chính Viễn Thông cơ sở TP HCM. 
+
+" Có thể nói đây là môn khó nhất trường mình và là nỗi ác mộng của nhìu bạn sinh viên ngành CNTT khi người dạy là thầy Lưu Nguyễn Kỳ Thư. 1 lớp học 70 thì chỉ có tầm 10 bạn qua môn.
+Đây là đồ án của mình được 8.5 với xử lí giao diện trên console c++ và bắt lỗi nghiệp vụ. Đồ án quản lý Thư Viện (đề tài 5 bên dưới)
+Hi vọng giúp các bạn trường PTIT HCM được qua môn này... "        #nguồn: https://github.com/haint97/Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay ^^
+
+// Trong đồ án này Mình có tham khảo một vài đồ án của các a/c khóa trước, Hi vọng các link này cũng sẽ là nguồn hữu ích nữa cho cách bạn tham khảo... 
+
++ https://github.com/haint97/Do-an-CTDL-GT-PTIT-HCM--Quan-ly-may-bay  // ý tưởng sự lý nghiệp vụ trong đồ án của anh này rất hay.
++ https://github.com/tuanseo 
++ https://github.com/tahongtrung/quanlidiemsv
+
+P/S : Không ai có thể làm đồ án này một mình nếu không có sự tham khảo. Nên các bạn cứ tự nhiên @@... Miễn là hiểu code là được...
+
                                         
                                                     Đề tài:
+                                                    
+Đồ án của thầy bao gồm ba dạng cơ bảng trong 7 đề tài bên dưới, đó là Bài toán từ điển(B.1) , Bài toán xử lý đồ thị(B.7) và Bài toán quản lý(B.2 -> B.6).
+ 
 1. Tra cứu từ điển: 
 Tổ chức từ điển theo cấu trúc danh sách liên kết kép . Mỗi từ gồm có các
 thông tin: Từ, loại từ, các nghĩa việt (theo cấu trúc danh sách tuyến tính, tối đa có 5 nghĩa
